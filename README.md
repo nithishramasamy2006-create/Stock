@@ -1,11 +1,9 @@
 <div align="center">
 </div>
 
-# Run and deploy your app
+# Run and deploy Stock app
 
 This contains everything you need to run your app locally.
-
-View your app in the studio: https://ai.studio/apps/4db8b48f-354c-4990-bcdd-8859eaef436f
 
 ## Run Locally
 
